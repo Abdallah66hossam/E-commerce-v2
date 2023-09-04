@@ -26,15 +26,11 @@ https://user-images.githubusercontent.com/30614282/161916675-86fb41ce-75cf-40f2-
 
 1. Clone this repo
 ```bash
-git clone https://github.com/nimone/Fashion-Store && cd Fashion-Store
+git clone https://github.com/Abdallah66hossam/E-commerce-v2 && cd Fashion-Store
 ```
 2. Install project dependecies
 ```bash
 cd ./api && npm install
 cd ./client && npm install
 ```
-3. Start development servers (api & client) with the provided script `rundev.sh`
-```bash
-bash rundev.sh
-```
-> Or, start them manually by `npm run dev`
+3. Start development servers (api & client) with `npm run dev`
