@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/30614282/161916675-86fb41ce-75cf-40f2-
 
 1. Clone this repo
 ```bash
-git clone https://github.com/Abdallah66hossam/E-commerce-v2.git && cd Fashion-Store
+git clone https://github.com/Abdallah66hossam/E-commerce-v2.git && cd E-commerce-v2
 ```
 2. Install project dependecies
 ```bash
